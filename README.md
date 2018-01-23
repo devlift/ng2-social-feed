@@ -1,3 +1,8 @@
+# ng-social-feed
+
+
+Implementation of https://github.com/mikaelbr/SocialFeed.js in Angular (WIP)
+
 # Socialfeed
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
